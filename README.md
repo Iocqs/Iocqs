@@ -7,4 +7,7 @@ I mainly specialize in LUA. but also like to learn other coding languages.
 
 On Discord of course! 
 
-lucious#4049
+lucious#9999
+
+🤯 **Owner of Warden, The Discord Moderation bot!**
+Fun fact, the bot was made on mobile!
