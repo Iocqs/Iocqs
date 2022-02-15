@@ -1,13 +1,13 @@
 👋 **Hey!**
 
-Im lucious!
+Im iocqs! (or LOCQS, Lucious, but thos retards stole my names)
 I mainly specialize in LUA. but also like to learn other coding languages.
 
 📫 **Where do you reach me?**
 
 On Discord of course! 
 
-lucious#9999
+locqs#5406
 
-🤯 **Owner of Warden, The Discord Moderation bot!**
-Fun fact, the bot was made on mobile!
+🤯 **Owner/Developer of Salad.TK
+Fun fact, i code on mobile.
