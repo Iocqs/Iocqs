@@ -7,7 +7,7 @@ I mainly specialize in LUA. but also like to learn other coding languages.
 
 On Discord of course! 
 
-locqs#5406
+lucious#5406
 
 🤯 **Owner/Developer of Salad.TK
 Fun fact, i code on mobile.
